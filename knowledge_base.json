@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "hey there!"
+    },
+    {
+      "question": "hi",
+      "answer": "Hi, How can i help you?"
+    },
+    {
+      "question": "Good Morning!",
+      "answer": "Good Morning, How can i help you?"
+    },
+    {
+      "question": "who are you?",
+      "answer": "I am a Thermobot, I will give the answers for thermodynamics"
+    },
+    {
+      "question": "Temperature",
+      "answer": "Temperature is a measure of the average kinetic energy of the particles in a substance."
+    },
+    {
+      "question": "Entropy",
+      "answer": "Entropy is a measure of the randomness or disorder of a system."
+    },
+    {
+      "question": "Internal Energy",
+      "answer": "Internal energy is the sum of the kinetic and potential energies of the particles within a system."
+    },
+    {
+      "question": "Heat",
+      "answer": "Heat is the transfer of thermal energy between two systems due to a temperature difference."
+    },
+    {
+      "question": "Work",
+      "answer": "Work is the transfer of energy that occurs when a force is applied to an object and it moves in the direction of the force."
+    },
+    {
+      "question": "First Law of Thermodynamics",
+      "answer": "The First Law states that energy cannot be created or destroyed, only transformed from one form to another."
+    },
+    {
+      "question": "Second Law of Thermodynamics",
+      "answer": "The Second Law states that the entropy of an isolated system tends to increase over time."
+    },
+    {
+      "question": "Third Law of Thermodynamics",
+      "answer": "The Third Law states that as temperature approaches absolute zero, the entropy of a perfect crystal approaches zero."
+    },
+    {
+      "question": "Adiabatic Process",
+      "answer": "An adiabatic process is one in which there is no heat exchange with the surroundings."
+    },
+    {
+      "question": "Isothermal Process",
+      "answer": "An isothermal process is one that occurs at constant temperature."
+    },
+    {
+      "question": "Isobaric Process",
+      "answer": "An isobaric process is one that occurs at constant pressure."
+    },
+    {
+      "question": "Isochoric Process",
+      "answer": "An isochoric process is one that occurs at constant volume."
+    },
+    {
+      "question": "what is work",
+      "answer": "Work is the transfer of energy that occurs when a force is applied to an object and it moves in the direction of the force."
+    },
+    {
+      "question": "Carnot Cycle",
+      "answer": "The Carnot cycle is a theoretical thermodynamic cycle that represents the most efficient possible engine operating between two given temperature reservoirs."
+    },
+    {
+      "question": "Heat Capacity",
+      "answer": "Heat capacity is the amount of heat energy required to raise the temperature of a substance by one degree Celsius or Kelvin."
+    },
+    {
+      "question": "Specific Heat Capacity",
+      "answer": "Specific heat capacity, also known as specific heat, is the heat capacity per unit mass of a substance."
+    },
+    {
+      "question": "Enthalpy",
+      "answer": "Enthalpy is a measure of the total energy of a system, including internal energy and the energy associated with pressure and volume."
+    },
+    {
+      "question": "Gibbs Free Energy",
+      "answer": "Gibbs free energy is a thermodynamic potential that measures the maximum amount of useful work that can be obtained from a thermodynamic system at constant temperature and pressure."
+    },
+    {
+      "question": "Latent Heat of Fusion",
+      "answer": "Latent heat of fusion is the amount of heat energy required to change a unit mass of a substance from solid to liquid at its melting point."
+    },
+    {
+      "question": "Latent Heat of Vaporization",
+      "answer": "Latent heat of vaporization is the amount of heat energy required to change a unit mass of a substance from liquid to vapor at its boiling point."
+    },
+    {
+      "question": "Thermal Equilibrium",
+      "answer": "Thermal equilibrium is a state where two objects or systems are at the same temperature and no heat flows between them."
+    },
+    {
+      "question": "Heat Engine",
+      "answer": "A heat engine is a device that converts thermal energy into mechanical work."
+    },
+    {
+      "question": "Entropy Production",
+      "answer": "Entropy production is the rate at which entropy increases within a system due to irreversible processes."
+    },
+    {
+      "question": "Reversible Process",
+      "answer": "A reversible process is one that can be reversed without leaving any trace on the surroundings."
+    },
+    {
+      "question": "Irreversible Process",
+      "answer": "An irreversible process is one that cannot be reversed without leaving a permanent change in the surroundings."
+    },
+    {
+      "question": "Closed System",
+      "answer": "A closed system is a thermodynamic system that can exchange energy with its surroundings but not matter."
+    },
+    {
+      "question": "Open System",
+      "answer": "An open system is a thermodynamic system that can exchange both energy and matter with its surroundings."
+    },
+    {
+      "question": "Isolated System",
+      "answer": "An isolated system is a thermodynamic system that does not exchange energy or matter with its surroundings."
+    },
+    {
+      "question": "Control Volume",
+      "answer": "A control volume is a fixed region in space that is used to analyze the flow of mass and energy through a system, often used in fluid dynamics."
+    },
+    {
+      "question": "Boundary",
+      "answer": "A boundary is the interface between a system and its surroundings, across which mass, energy, or momentum may be transferred."
+    },
+    {
+      "question": "Control Mass",
+      "answer": "A control mass is a system that remains constant in mass, with no mass entering or leaving during a process analysis."
+    },
+    {
+      "question": "Homogeneous System",
+      "answer": "A homogeneous system is one in which the properties are uniform throughout, such as a single-phase substance."
+    },
+    {
+      "question": "Heterogeneous System",
+      "answer": "A heterogeneous system is one in which the properties vary throughout, such as a multi-phase substance."
+    },
+    {
+      "question": "Open Boundary",
+      "answer": "An open boundary allows mass, energy, or momentum to flow freely across the boundary between a system and its surroundings."
+    },
+    {
+      "question": "Closed Boundary",
+      "answer": "A closed boundary restricts the transfer of mass across the boundary, while allowing energy or momentum transfer."
+    },
+    {
+      "question": "Carnot Cycle",
+      "answer": "The Carnot cycle is a theoretical thermodynamic cycle that represents the most efficient possible engine operating between two given temperature reservoirs. It consists of four reversible processes: isothermal expansion, adiabatic expansion, isothermal compression, and adiabatic compression."
+    },
+    {
+      "question": "Rankine Cycle",
+      "answer": "The Rankine cycle is a thermodynamic cycle used in steam power plants to generate electricity. It consists of four processes: isentropic compression, constant pressure heat addition, isentropic expansion, and constant pressure heat rejection."
+    },
+    {
+      "question": "Brayton Cycle",
+      "answer": "The Brayton cycle is a thermodynamic cycle used in gas turbine engines and air compressors. It consists of four processes: isentropic compression, constant pressure heat addition, isentropic expansion, and constant pressure heat rejection."
+    },
+    {
+      "question": "Otto Cycle",
+      "answer": "The Otto cycle is a thermodynamic cycle used in spark-ignition internal combustion engines. It consists of four processes: isentropic compression, constant volume heat addition, isentropic expansion, and constant volume heat rejection."
+    },
+    {
+      "question": "Diesel Cycle",
+      "answer": "The Diesel cycle is a thermodynamic cycle used in diesel engines. It consists of four processes: isentropic compression, constant pressure heat addition, isentropic expansion, and constant volume heat rejection."
+    },
+    {
+      "question": "Stirling Cycle",
+      "answer": "The Stirling cycle is a thermodynamic cycle used in Stirling engines. It consists of two isothermal processes and two constant volume processes, with heat transfer occurring through a regenerator."
+    },
+    {
+      "question": "Ericsson Cycle",
+      "answer": "The Ericsson cycle is a thermodynamic cycle similar to the Brayton cycle, but with isothermal heat addition and rejection processes. It is used in some gas refrigeration and heat pump systems."
+    },
+    {
+      "question": "Regenerative Cycle",
+      "answer": "The regenerative cycle is a thermodynamic cycle that uses heat exchange between outgoing and incoming streams to improve the efficiency of power plants and engines."
+    },
+    {
+      "question": "Refrigeration Cycle",
+      "answer": "The refrigeration cycle is a thermodynamic cycle used in refrigeration and air conditioning systems to transfer heat from a cooler environment to a warmer one, providing cooling."
+    },
+    {
+      "question": "Absorption Refrigeration Cycle",
+      "answer": "The absorption refrigeration cycle is a thermodynamic cycle used in absorption refrigeration systems, where refrigerant vapor is absorbed by a liquid absorbent, then released by heating the absorbent."
+    },
+    {
+      "question": "Adsorption Refrigeration Cycle",
+      "answer": "The adsorption refrigeration cycle is a thermodynamic cycle used in adsorption refrigeration systems, where refrigerant vapor is adsorbed onto a solid adsorbent, then desorbed by heating the adsorbent."
+    },
+    {
+      "question": "Thermal Conductivity",
+      "answer": "Thermal conductivity is a measure of a material's ability to conduct heat, indicating how quickly heat energy can be transferred through the material."
+    },
+    {
+      "question": "Steady Flow Process",
+      "answer": "A steady flow process is one in which the properties of a fluid within a control volume do not change with time, although they may change at different locations within the volume."
+    },
+    {
+      "question": "Heat Flux",
+      "answer": "Heat flux is the rate of heat transfer per unit area, measured in watts per square meter (W/m\u00c2\u00b2)."
+    },
+    {
+      "question": "Kinetic Theory of Gases",
+      "answer": "The kinetic theory of gases describes the behavior of gases based on the motion of their constituent particles, assuming that the particles are in constant, random motion and have negligible volume compared to the space between them."
+    },
+    {
+      "question": "Critical Point",
+      "answer": "The critical point is the temperature and pressure at which a substance transitions between liquid and gas phases, beyond which distinct liquid and gas phases no longer exist."
+    },
+    {
+      "question": "Thermal Resistance",
+      "answer": "Thermal resistance is a measure of a material's resistance to heat flow, indicating how effectively it insulates against temperature differences."
+    },
+    {
+      "question": "Heat Sink",
+      "answer": "A heat sink is a device or substance that absorbs and dissipates heat away from a system or component."
+    },
+    {
+      "question": "Heat Source",
+      "answer": "A heat source is a device or process that generates heat energy, providing thermal energy to a system."
+    },
+    {
+      "question": "Heat Pump",
+      "answer": "A heat pump is a device that transfers heat energy from a lower temperature reservoir to a higher temperature reservoir, using mechanical work."
+    },
+    {
+      "question": "Carnot Efficiency",
+      "answer": "The Carnot efficiency is the maximum theoretical efficiency of a heat engine operating between two given temperature reservoirs, determined solely by their temperatures."
+    },
+    {
+      "question": "Pressure",
+      "answer": "Pressure is defined as the force per unit area exerted by a fluid on its surroundings. It is a measure of how much force is applied over a given area and is typically expressed in units such as pascals (Pa), atmospheres (atm), or pounds per square inch (psi). In thermodynamics, pressure plays a crucial role in determining the behavior of gases, liquids, and solids under various conditions."
+    },
+    {
+      "question": "Volume",
+      "answer": "Volume is the quantity of three-dimensional space enclosed by a closed surface or boundary. It is a measure of the amount of space occupied by a substance or object and is typically expressed in units such as cubic meters (m\u00c2\u00b3) or liters (L). In thermodynamics, volume is an important property used to describe the size and configuration of systems, and changes in volume often accompany changes in temperature, pressure, or other thermodynamic variables."
+    },
+    {
+      "question": "Give 2013 GATE questions",
+      "answer": 
+        "Here are the 2013 GATE Questions:\n1. cylinder contains 5 m3 of an ideal gas at a pressure of 1 bar. This gas is compressed in a reversible isothermal process till its pressure increases to 5 bar. The work in kJ required for this process is\nAns:804.7\n\n2.Specific enthalpy and velocity of steam at  inlet  and  exit  of  a  steam  turbine, running under steady state, Inlet steam condition:\nSpecific Enthalpy-3250kJ/kg\nVelocity-180m/s\nExit steam condition:\nSpecific Enthalpy-2360KJ/kg\nVelocity-5m/s\nThe rate of heat loss from the turbine per kg of steam flow rate is 5 kW . Neglecting changes in potential energy of steam, the power developed in kW by the steam turbine per kg of steam flow rate is\nAns:901.2\n\n3.The pressure, temperature and velocity of air flowing in a pipe are 5 bar , 500 K and 50 m / s, respectively. The specific heats of air at constant pressure and at constant volume are 1.005 kJ /kg K and 0.718 kJ /kg K , respectively. Neglect potential energy. If the pressure and temperature of  the surrounding  are  1 bar and 300 K, respectively, the available energy in kJ /kg of the air stream is\n Ans:187 kJ /kg \n\nCommon Data For Q. 4 and 5\nIn a simple Brayton cycle, the pressure ratio is 8 and temperatures at the entrance of compressor and turbine are 300 K and 1400 K, respectively. Both compressor and  gas  turbine have  isentropic efficiencies  equal  to 0.8.  For  the gas, assume a constant  value  of cp  (specific  heat  at  constant  pressure)  equal  to 1 kJ /kg-K and ratio of specific heats as 1.4. Neglect changes in kinetic and potential energies.\n4.The power required by the compressor in kW /kg of gas flow rate is\nAns:304.3 kW /kg\n5.The thermal efficiency of the cycle in percentage  (%)  is\n Ans: 24.8%"
+      
+    },
+    {
+      "question": "Give 2014 GATE questions",
+      "answer": 
+        "Here are the 2014 GATE Questions:\n1."
+      
+    }
+  ]
+}
