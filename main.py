@@ -43,7 +43,7 @@ questions = [q["question"].lower() for q in knowledge_base["questions"]]
 
 @app.route('/')
 def home():
-    return render_template_string(open('Frontend.html').read())
+    return render_template_string(open('index.html').read())
 
 @app.route('/get_response', methods=['POST'])
 def get_response():
